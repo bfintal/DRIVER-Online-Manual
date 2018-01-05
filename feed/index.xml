@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Driver</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Online User Manual</description>
+	<lastBuildDate>Thu, 28 Dec 2017 09:07:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Become an Analyst</title>
+		<link>/become-an-analyst/</link>
+		<comments>/become-an-analyst/#respond</comments>
+		<pubDate>Tue, 10 Oct 2017 10:55:29 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1141</guid>
+		<description><![CDATA[In order to input, edit, and delete data on the DRIVER website, the user must have Analyst privileges. The application &#8230; <a href="/become-an-analyst/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>In order to input, edit, and delete data on the DRIVER website, the user must have Analyst privileges. The application for Analyst users are as follows:</p>
+<ol>
+<li>Before registering, assign a road safety data officer/group who will input and update data on DRIVER.</li>
+<li>Create a Gmail account for DRIVER access. Kindly follow this format:</li>
+</ol>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>roadsafety.&lt;your city/municipality/province&gt;@gmail.com</strong></p>
+<p style="text-align: center;"><strong> (Example: roadsafety.pasig@gmail.com)</strong></p>
+<p>&nbsp;</p>
+<ol start="3">
+<li>Submit a letter of intent (See Annex A or <u>http://bit.ly/2u0QDDb</u>) in pdf format at roadsafety.dotr@gmail.com. This will prompt DOTr to give Analyst access/privileges to the local government unit&#8217;s (LGU) registered road safety Gmail account.</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="4">
+<li>Wait for DOTr’s email/text notification of analyst account activation.</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="5">
+<li>Log-in to your road safety Gmail account then access <strong>roadsafety.gov.ph</strong>. Press “Log-in with google.com”, and use the gmail address you used to register for DRIVER. After this, you will be automatically taken to the DRIVER dashboard.<img class="aligncenter wp-image-1144 size-full" src="/wp-content/uploads/2017/10/driver-login.png" alt="" width="912" height="477" srcset="/wp-content/uploads/2017/10/driver-login.png 912w, /wp-content/uploads/2017/10/driver-login-300x157.png 300w, /wp-content/uploads/2017/10/driver-login-768x402.png 768w" sizes="(max-width: 912px) 100vw, 912px" /></li>
+</ol>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/become-an-analyst/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manage Analytical Tools</title>
+		<link>/manage-analytical-tools/</link>
+		<comments>/manage-analytical-tools/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 14:57:53 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1106</guid>
+		<description><![CDATA[Economic &#38; Societal Harm Blackspot Statistical &#38; Societal Harm]]></description>
+				<content:encoded><![CDATA[<p><a href="/economic-loss-societal-harm/">Economic &amp; Societal Harm</a></p>
+<p><a href="/blackspot-statistical-configuration/">Blackspot Statistical &amp; Societal Harm</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/manage-analytical-tools/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manage Database</title>
+		<link>/manage-database/</link>
+		<comments>/manage-database/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 14:55:50 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1100</guid>
+		<description><![CDATA[Record Types View All Record Types Edited Record Types Deleting Record Types Related Content Types View All Record Types Editing &#8230; <a href="/manage-database/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="/record-types/" xlink="href">Record Types</a></p>
+<ul>
+<li>View All Record Types</li>
+<li>Edited Record Types</li>
+<li>Deleting Record Types</li>
+</ul>
+<p><a href="/related-content-types/" xlink="href">Related Content Types</a></p>
+<ul>
+<li>View All Record Types</li>
+<li>Editing Related Content</li>
+<li>Adding Related Content</li>
+<li>Adding Multiple Entries in a Single Related Content Type</li>
+<li>Deleting Related Content</li>
+</ul>
+<p><a href="/adding-editing-geographic-boundaries/" xlink="href">Geographic Boundaries</a></p>
+<ul>
+<li>Viewing Geographic Boundaries</li>
+<li>Adding Geographic Boundaries</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/manage-database/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manage Users</title>
+		<link>/manage-users/</link>
+		<comments>/manage-users/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 14:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1096</guid>
+		<description><![CDATA[Viewing Users Viewing All Users Viewing Users by Type Viewing Details of Individual Users Modifying User Accounts Changing User&#8217;s E-mail, &#8230; <a href="/manage-users/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="/viewing-users/">Viewing Users</a></p>
+<ul>
+<li>Viewing All Users</li>
+<li>Viewing Users by Type</li>
+<li>Viewing Details of Individual Users</li>
+</ul>
+<p><a href="/modifying-user-accounts/">Modifying User Accounts</a></p>
+<ul>
+<li>Changing User&#8217;s E-mail, User Type/Role, or Username</li>
+<li>Deleting Users</li>
+</ul>
+<p><a href="/adding-new-users/">Adding Users</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/manage-users/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blackspot Statistical Configuration</title>
+		<link>/blackspot-statistical-configuration/</link>
+		<comments>/blackspot-statistical-configuration/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 14:23:07 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1090</guid>
+		<description><![CDATA[To access the black spot configuration, click the “System Settings” button at the top right of the Ashlar interface. Then &#8230; <a href="/blackspot-statistical-configuration/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>To access the black spot configuration, click the “System Settings” button at the top right of the Ashlar interface. Then set the severity threshold and click “Update”.</p>
+<p><img class="aligncenter wp-image-1091 size-full" src="/wp-content/uploads/2017/10/System-Settings.png" alt="" width="571" height="140" srcset="/wp-content/uploads/2017/10/System-Settings.png 571w, /wp-content/uploads/2017/10/System-Settings-300x74.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></p>
+<p>The black spot configuration consists of inputting a threshold for the percentile of locations to display. The percentile is relative to all road segments, and is represented as a decimal between 0 and 1.</p>
+<p>Lower thresholds display more black spots; higher thresholds display only the most severe black spots. Updating the threshold does not have an immediate effect in DRIVER, but the update will be visible after the next scheduled run of the black spot calculation script.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blackspot-statistical-configuration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economic Loss &#038; Societal Harm</title>
+		<link>/economic-loss-societal-harm/</link>
+		<comments>/economic-loss-societal-harm/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 14:19:19 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1086</guid>
+		<description><![CDATA[The DRIVER website displays two widgets that calculate Economic Loss &#38; Societal Harm. These widgets&#8217; results also adjust according to &#8230; <a href="/economic-loss-societal-harm/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>The DRIVER website displays two widgets that calculate Economic Loss &amp; Societal Harm. These widgets&#8217; results also adjust according to what filters are set by the user.</p>
+<p><img class="aligncenter wp-image-1087 size-full" src="/wp-content/uploads/2017/10/Cost-Aggregation-Settings.png" alt="" width="945" height="563" srcset="/wp-content/uploads/2017/10/Cost-Aggregation-Settings.png 945w, /wp-content/uploads/2017/10/Cost-Aggregation-Settings-300x179.png 300w, /wp-content/uploads/2017/10/Cost-Aggregation-Settings-768x458.png 768w" sizes="(max-width: 945px) 100vw, 945px" /><br />
+To set costs for economic loss and societal harm, expand the Incidents navigation tab and click on “Cost aggregation settings”.</p>
+<p>The interface provides formatting options for currency, the type of content, and field to associate with<br />
+costs. Only option-type fields are available for associating costs.</p>
+]]></content:encoded>
+			<wfw:commentRss>/economic-loss-societal-harm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adding &#038; Editing Geographic Boundaries</title>
+		<link>/adding-editing-geographic-boundaries/</link>
+		<comments>/adding-editing-geographic-boundaries/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 13:55:42 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1080</guid>
+		<description><![CDATA[The DRIVER website allows users to view areas in its map with Geographic Boundaries, particularly according to Region, and City/Province. &#8230; <a href="/adding-editing-geographic-boundaries/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>The DRIVER website allows users to view areas in its map with Geographic Boundaries, particularly according to Region, and City/Province.</p>
+<p><img class="aligncenter wp-image-1081 size-full" src="/wp-content/uploads/2017/10/Cit.png" alt="" width="1365" height="590" srcset="/wp-content/uploads/2017/10/Cit.png 1365w, /wp-content/uploads/2017/10/Cit-300x130.png 300w, /wp-content/uploads/2017/10/Cit-768x332.png 768w, /wp-content/uploads/2017/10/Cit-1024x443.png 1024w" sizes="(max-width: 1365px) 100vw, 1365px" /> <img class="aligncenter wp-image-1082 size-full" src="/wp-content/uploads/2017/10/Region-Heo.png" alt="" width="1365" height="590" srcset="/wp-content/uploads/2017/10/Region-Heo.png 1365w, /wp-content/uploads/2017/10/Region-Heo-300x130.png 300w, /wp-content/uploads/2017/10/Region-Heo-768x332.png 768w, /wp-content/uploads/2017/10/Region-Heo-1024x443.png 1024w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Administrators may also add new Geographic Boundaries using the Ashlar Schema Editor.</p>
+<h3>Viewing Geographic Boundaries</h3>
+<p>To view the list of Geographic Boundaries available on the DRIVER website, click on the &#8220;View All Geographies&#8221; button found at the bottoom of the sidebar on the left.</p>
+<p><img class="aligncenter wp-image-1084 size-full" src="/wp-content/uploads/2017/10/View-ALl-Geo.png" alt="" width="198" height="159" /></p>
+<p><span style="color: inherit; font-size: 24px;">Adding Geographic Boundaries</span></p>
+<p>To add a new Geographic Boundary, click on the &#8220;Add New Geography&#8221; button found below the &#8220;View All Geographies&#8221; button on the sidebar.</p>
+<p><img class="aligncenter wp-image-1083 size-full" src="/wp-content/uploads/2017/10/Add-New-Geo.png" alt="" width="961" height="482" srcset="/wp-content/uploads/2017/10/Add-New-Geo.png 961w, /wp-content/uploads/2017/10/Add-New-Geo-300x150.png 300w, /wp-content/uploads/2017/10/Add-New-Geo-768x385.png 768w" sizes="(max-width: 961px) 100vw, 961px" /></p>
+<p>The administrator must add a Geography Label, upload a shapefile, and set a Geography Color (for instance, the red and green geography colors of the Region and City/Province boundaries, respectively).</p>
+<p>Upon upload, the admin user can select a display field for the new Geographic Boundary.</p>
+]]></content:encoded>
+			<wfw:commentRss>/adding-editing-geographic-boundaries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Related Content Types</title>
+		<link>/related-content-types/</link>
+		<comments>/related-content-types/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 12:46:06 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1070</guid>
+		<description><![CDATA[&#8220;Related Content&#8221; is the term used in the Ashlar Editor to refer to sub-categories within the Input Forms on the &#8230; <a href="/related-content-types/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Related Content&#8221; is the term used in the Ashlar Editor to refer to sub-categories within the Input Forms on the DRIVER website.</p>
+<p>Examples of Related Content are Vehicles, People, and Photos, which currently fall under the &#8220;Incident Input Form&#8221; of the Incidents Record Type.</p>
+<p>Admin users may view, edit, or add Related Content using the Ashlar Schema Editor.</p>
+<h3>Viewing Related Content Types</h3>
+<p>Related Content may be viewed by clicking on the &#8220;View Related Content&#8221; link on the sidebar on the left side of the screen. Clicking on this will lead the admin user to a list of all Related Content available for the selected Record Type (in this case, the Record Type is &#8220;Incidents&#8221;, and the Related Contents falling under it are &#8220;Vehicles&#8221;, People&#8221;, and &#8220;Photos&#8221;.</p>
+<p><img class="aligncenter wp-image-1072 size-full" src="/wp-content/uploads/2017/10/Related-Content_Incidents.png" alt="" width="946" height="321" srcset="/wp-content/uploads/2017/10/Related-Content_Incidents.png 946w, /wp-content/uploads/2017/10/Related-Content_Incidents-300x102.png 300w, /wp-content/uploads/2017/10/Related-Content_Incidents-768x261.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></p>
+<h3>Editing Related Content</h3>
+<p>Clicking on the &#8220;Edit&#8221; button on the right side of each Related Content Entry will let admin users edit its details, which will reflect on the DRIVER website as additional fields/categories for Analyst users to fill up.</p>
+<p><img class="alignnone wp-image-1073 size-full" src="/wp-content/uploads/2017/10/Photo_RElated_Content.png" alt="" width="913" height="552" srcset="/wp-content/uploads/2017/10/Photo_RElated_Content.png 913w, /wp-content/uploads/2017/10/Photo_RElated_Content-300x181.png 300w, /wp-content/uploads/2017/10/Photo_RElated_Content-768x464.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></p>
+<p>From here, admin users may choose what type of field or content they would like to reflect on the selected Record Type DRIVER website. They may also edit the elements of the Related Content Types above. For instance, if the admin user wants to add a text field as a Related Content Type, they may do so on this page by choosing from the dropdown pictured below:</p>
+<p><img class="aligncenter wp-image-1074 size-full" src="/wp-content/uploads/2017/10/Related-Content_Text-FIeld.png" alt="" width="871" height="442" srcset="/wp-content/uploads/2017/10/Related-Content_Text-FIeld.png 871w, /wp-content/uploads/2017/10/Related-Content_Text-FIeld-300x152.png 300w, /wp-content/uploads/2017/10/Related-Content_Text-FIeld-768x390.png 768w" sizes="(max-width: 871px) 100vw, 871px" /></p>
+<h3>Adding Related Content</h3>
+<p>Admin users may add Related Content by clicking the &#8220;Add Related Content&#8221; link on the left sidebar of the Ashlar Editor, or by clicking on the &#8220;Add New Content&#8221; button on the top right corner of the Related Content&#8217;s page.</p>
+<p>From here, users may add in the singular and plural forms of their chosen record type label. For instance, if the user wishes to name the new record type &#8220;Incidents&#8221;, they must set &#8220;Incident&#8221; as the singular label of the record type, and &#8220;Incidents&#8221; as the plural label. These labels will adjust accordingly on the DRIVER website, depending on whether a DRIVER user adds one or multiple entries.</p>
+<p><img class="aligncenter wp-image-1075 size-full" src="/wp-content/uploads/2017/10/Add-RElated-Content.png" alt="" width="927" height="423" srcset="/wp-content/uploads/2017/10/Add-RElated-Content.png 927w, /wp-content/uploads/2017/10/Add-RElated-Content-300x137.png 300w, /wp-content/uploads/2017/10/Add-RElated-Content-768x350.png 768w" sizes="(max-width: 927px) 100vw, 927px" /></p>
+<h3>Adding Multiple Entries in a Single Related Content Type</h3>
+<p>Clicking on the &#8220;Allow Multiple?&#8221; checkbox at the bottom left side of the page will allow DRIVER Analyst users to add more than one entry within a Related Content Type. For example, if the admin wants the Analyst user to add more than one Vehicle in the Incident Input Form, then the &#8220;Allow Multiple?&#8221; checkbox must be ticked.</p>
+<h3>Deleting Related Content</h3>
+<p><img class="aligncenter wp-image-1078 size-full" src="/wp-content/uploads/2017/10/Trash-Inciden.png" alt="" width="935" height="140" srcset="/wp-content/uploads/2017/10/Trash-Inciden.png 935w, /wp-content/uploads/2017/10/Trash-Inciden-300x45.png 300w, /wp-content/uploads/2017/10/Trash-Inciden-768x115.png 768w" sizes="(max-width: 935px) 100vw, 935px" />To delete Related Content, simply click on the &#8220;Trash&#8221; button located on the rightmost side of each Related Content entry.</p>
+]]></content:encoded>
+			<wfw:commentRss>/related-content-types/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Record Types</title>
+		<link>/record-types/</link>
+		<comments>/record-types/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 12:43:55 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1065</guid>
+		<description><![CDATA[Record Types on the DRIVER website may be added via the Ashlar Schema Editor. As of the moment, there are &#8230; <a href="/record-types/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Record Types on the DRIVER website may be added via the Ashlar Schema Editor. As of the moment, there are two Record Types on the DRIVER website: Incidents and Interventions.</p>
+<h3><img class="wp-image-1066 size-full aligncenter" src="/wp-content/uploads/2017/10/Record-Types.png" alt="" width="199" height="425" srcset="/wp-content/uploads/2017/10/Record-Types.png 199w, /wp-content/uploads/2017/10/Record-Types-140x300.png 140w" sizes="(max-width: 199px) 100vw, 199px" /><br />
+View All Record Types</h3>
+<p>These two Record Types (and succeeding record types) may be viewed in the Ashlar Editor on the sidebar seen on the left. Clicking on the &#8220;View all record types&#8221; button takes the user to the available record types, where they can add, edit, or delete details of their selected Record Type.</p>
+<p><img class="alignnone wp-image-1068 size-full" src="/wp-content/uploads/2017/10/All-Record-Types.png" alt="" width="920" height="193" srcset="/wp-content/uploads/2017/10/All-Record-Types.png 920w, /wp-content/uploads/2017/10/All-Record-Types-300x63.png 300w, /wp-content/uploads/2017/10/All-Record-Types-768x161.png 768w" sizes="(max-width: 920px) 100vw, 920px" /></p>
+<p>Clicking on the &#8220;Preview&#8221; button on the far right of the Record Type will take the user to a preview of the Record Type&#8217;s Input Form on the DRIVER website. In the preview, users may click the &#8220;Expand&#8221; button to view more details of the Record Type&#8217;s input form.</p>
+<h3>Editing Record Types</h3>
+<p>Clicking on the &#8220;Edit&#8221; button on the right side of each Record Type entry will let admin users edit its details, which will reflect on the DRIVER website.</p>
+<p><img class="aligncenter wp-image-1102 size-full" src="/wp-content/uploads/2017/10/Edit-Record-Type.png" alt="" width="946" height="381" srcset="/wp-content/uploads/2017/10/Edit-Record-Type.png 946w, /wp-content/uploads/2017/10/Edit-Record-Type-300x121.png 300w, /wp-content/uploads/2017/10/Edit-Record-Type-768x309.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></p>
+<h3>Deleting Record Types</h3>
+<p>To delete Record Types, simply click on the &#8220;Trash&#8221; button located on the rightmost side of each Record Type entry.</p>
+<p><img class="aligncenter wp-image-1103 size-full" src="/wp-content/uploads/2017/10/Incident-trash.png" alt="" width="886" height="63" srcset="/wp-content/uploads/2017/10/Incident-trash.png 886w, /wp-content/uploads/2017/10/Incident-trash-300x21.png 300w, /wp-content/uploads/2017/10/Incident-trash-768x55.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/record-types/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adding New Users</title>
+		<link>/adding-new-users/</link>
+		<comments>/adding-new-users/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 12:11:44 +0000</pubDate>
+		<dc:creator><![CDATA[gambit]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1062</guid>
+		<description><![CDATA[To add new users, simply click on the &#8220;Add New User&#8221; button under the User Management page, which you can &#8230; <a href="/adding-new-users/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>To add new users, simply click on the &#8220;Add New User&#8221; button under the User Management page, which you can access by clicking &#8220;Manage Users&#8221; on the top right corner of the Ashlar Editor.</p>
+<p>Upon clicking the &#8220;Add New User&#8221; button, the Ashlar Editor will redirect you to a new page labelled &#8220;Create User Account&#8221;.</p>
+<p><img class="alignnone wp-image-1063 size-full" src="/wp-content/uploads/2017/10/Create-User-Account.png" alt="" width="912" height="353" srcset="/wp-content/uploads/2017/10/Create-User-Account.png 912w, /wp-content/uploads/2017/10/Create-User-Account-300x116.png 300w, /wp-content/uploads/2017/10/Create-User-Account-768x297.png 768w" sizes="(max-width: 912px) 100vw, 912px" /></p>
+<p>From here, you may create a user by filling the necessary details shown, as well as provide the user with a password.</p>
+<p>Click on the &#8220;CreateUser&#8221; button below to create the user account.</p>
+]]></content:encoded>
+			<wfw:commentRss>/adding-new-users/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
