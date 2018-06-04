@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Online User Manual</description>
-	<lastBuildDate>Thu, 28 Dec 2017 09:07:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Apr 2018 04:27:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -61,9 +61,11 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1106</guid>
-		<description><![CDATA[Economic &#38; Societal Harm Blackspot Statistical &#38; Societal Harm]]></description>
+		<description><![CDATA[Economic &#38; Societal Harm Blackspot Statistical &#38; Societal Harm a &#160;]]></description>
 				<content:encoded><![CDATA[<p><a href="/economic-loss-societal-harm/">Economic &amp; Societal Harm</a></p>
 <p><a href="/blackspot-statistical-configuration/">Blackspot Statistical &amp; Societal Harm</a></p>
+<p>a</p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>/manage-analytical-tools/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -78,13 +80,13 @@
 
 		<guid isPermaLink="false">/?p=1100</guid>
 		<description><![CDATA[Record Types View All Record Types Edited Record Types Deleting Record Types Related Content Types View All Record Types Editing &#8230; <a href="/manage-database/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p><a href="/record-types/" xlink="href">Record Types</a></p>
+				<content:encoded><![CDATA[<p><a href="/record-types/">Record Types</a></p>
 <ul>
 <li>View All Record Types</li>
 <li>Edited Record Types</li>
 <li>Deleting Record Types</li>
 </ul>
-<p><a href="/related-content-types/" xlink="href">Related Content Types</a></p>
+<p><a href="/related-content-types/">Related Content Types</a></p>
 <ul>
 <li>View All Record Types</li>
 <li>Editing Related Content</li>
@@ -92,7 +94,7 @@
 <li>Adding Multiple Entries in a Single Related Content Type</li>
 <li>Deleting Related Content</li>
 </ul>
-<p><a href="/adding-editing-geographic-boundaries/" xlink="href">Geographic Boundaries</a></p>
+<p><a href="/adding-editing-geographic-boundaries/">Geographic Boundaries</a></p>
 <ul>
 <li>Viewing Geographic Boundaries</li>
 <li>Adding Geographic Boundaries</li>

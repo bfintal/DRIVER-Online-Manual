@@ -12,7 +12,7 @@
 	<atom:link href="/tl/feed/" rel="self" type="application/rss+xml" />
 	<link>/tl</link>
 	<description>Online User Manual</description>
-	<lastBuildDate>Thu, 28 Dec 2017 09:07:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Apr 2018 04:27:20 +0000</lastBuildDate>
 	<language>tl</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,20 +26,27 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1141</guid>
-		<description><![CDATA[Para makapag input, edit at mag-delete ng datos sa DRIVER website, dapat ang gumagamit ay mayroong pribilehiyong pang-Analyst. Ang mga sumusunod ang mga hakbang &#8230; <a href="/tl/become-an-analyst/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p>Para makapag <em>input, edit</em> at mag-<em>delete</em> ng datos sa DRIVER website, dapat ang gumagamit ay mayroong pribilehiyong pang-<em>Analyst. </em>Ang mga sumusunod ang mga hakbang upang maging <em>Analyst</em>:</p>
+		<description><![CDATA[Para makapag-input, edit, at delete ng record sa DRIVER, siguraduhin na may Analyst access. Ang mga sumusunod ang mga hakbang upang maging isang Analyst: &#8230; <a href="/tl/become-an-analyst/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Para makapag-input, edit, at delete ng record sa DRIVER, siguraduhin na may <em>Analyst</em> access<em>. </em>Ang mga sumusunod ang mga hakbang upang maging isang <em>Analyst</em>:</p>
 <ol>
-<li>Bago mag-<em>register,</em> magtalaga ng isang/grupo ng mga opisyal na maglalagay ng datos sa DRIVER.</li>
-<li>Gamitin ang Gmail account para mabuksan ang DRIVER. Paki sundan ang ayos sa ibaba:</li>
+<li>Magtalaga ng isang tao o grupo ng mga opisyal na magrerecord ng datos sa DRIVER.</li>
+<li>Gumawa ng isang road safety Gmail account na gagamitin sa DRIVER. Sundan ang template sa ibaba:</li>
 </ol>
-<p style="text-align: center;"><strong>roadsafety.&lt;your city/municipality/province&gt;@gmail.com</strong></p>
-<p style="text-align: center;"><strong> (Example: roadsafety.pasig@gmail.com)</strong></p>
+<p style="text-align: center;"><strong>roadsafety.&lt;ang inyong lungsod, munisipalidad, o probinsya&gt;@gmail.com</strong></p>
+<p style="text-align: center;"><strong> (Halimbawa: roadsafety.pasig@gmail.com)</strong></p>
+<p>&nbsp;</p>
+<ol start="3">
+<li>Mag-send ng opisyal na sulat na humihingi ng <em>Analyst </em>access (Tingnan ang Annex A sa <u>http://bit.ly/2u0QDDb </u>para sa sample ng sulat) sa roadsafety.dotr@gmail.com. Siguraduhin na naka-pdf ang sulat na ito. Pagkatanggap ng sulat, iproproseso ng DOTr ang <em>Analyst </em>access sa road safety Gmail na isinaad ninyo sa sulat.</li>
+<li>Maghintay sa confirmation email ng DOTr na nagsasaad na nagawan na kayo ng <em>Analyst </em>access.</li>
+<li>Mag-log-in sa inyong road safety Gmail account at saka pumunta sa <strong>roadsafety.gov.ph</strong>. Pindutin ang “Log-in with google.com”, at gamitin ang inyong road safety Gmail account. Pagkatapos nito, mapupunta na kayo sa DRIVER dashboard, ngayon, bilang <em>Analyst</em>. <img class="aligncenter wp-image-1144 size-full" src="/wp-content/uploads/2017/10/driver-login.png" alt="" width="912" height="477" srcset="/wp-content/uploads/2017/10/driver-login.png 912w, /wp-content/uploads/2017/10/driver-login-300x157.png 300w, /wp-content/uploads/2017/10/driver-login-768x402.png 768w" sizes="(max-width: 912px) 100vw, 912px" /></li>
+</ol>
+<p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/become-an-analyst/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Ayusin ang Analytical Tools</title>
+		<title>Pangasiwaan ang mga Gamit sa Pagsusuri ng Datos</title>
 		<link>/tl/manage-analytical-tools/</link>
 		<comments>/tl/manage-analytical-tools/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 14:57:53 +0000</pubDate>
@@ -47,16 +54,16 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1106</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/manage-analytical-tools/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p><a href="/tl/economic-loss-societal-harm/">Economic &amp; Societal Harm</a></p>
-<p><a href="/tl/blackspot-statistical-configuration/">Blackspot Statistical &amp; Societal Harm</a></p>
+		<description><![CDATA[Pag-compute sa Danyos sa Ekonomiya at Lipunan Pag-compute ng Blackspots at Danyos sa Lipunan &#160;]]></description>
+				<content:encoded><![CDATA[<p><a href="/tl/economic-loss-societal-harm/">Pag-compute sa Danyos sa Ekonomiya at Lipunan</a></p>
+<p><a href="/tl/blackspot-statistical-configuration/">Pag-compute ng Blackspots at Danyos sa Lipunan</a></p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/manage-analytical-tools/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Manage Database</title>
+		<title>Pangasiwaan ang Database</title>
 		<link>/tl/manage-database/</link>
 		<comments>/tl/manage-database/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 14:55:50 +0000</pubDate>
@@ -64,34 +71,32 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1100</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/manage-database/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p><a href="/tl/record-types/" xlink="href">Record Types</a></p>
+		<description><![CDATA[Mga Uri ng Tala o Record Tingnan Lahat ng Uri ng Tala Baguhin ang mga Uri ng Tala Magtanggal ng &#8230; <a href="/tl/manage-database/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="/tl/record-types/">Mga Uri ng Tala o Record</a></p>
 <ul>
-<li>View All Record Types</li>
-<li>Edited Record Types</li>
-<li>Deleting Record Types</li>
+<li>Tingnan Lahat ng Uri ng Tala</li>
+<li>Baguhin ang mga Uri ng Tala</li>
+<li>Magtanggal ng Uri ng Tala</li>
 </ul>
-<p><a href="/tl/related-content-types/" xlink="href">Related Content Types</a></p>
+<p><a href="/tl/related-content-types/">Mga Uri ng Related Content</a></p>
 <ul>
-<li>View All Record Types</li>
-<li>Editing Related Content</li>
-<li>Adding Related Content</li>
-<li>Adding Multiple Entries in a Single Related Content Type</li>
-<li>Deleting Related Content</li>
+<li>Tingnan Lahat ng Uri ng Related Content</li>
+<li>Baguhin ang Related Content</li>
+<li>Magdagdag ng Related Content</li>
+<li>Magdagdag ng mga Tala sa Isang Uri ng Related Content</li>
+<li>Magtanggal ng Related Content</li>
 </ul>
-<p><a href="/tl/adding-editing-geographic-boundaries/" xlink="href">Geographic Boundaries</a></p>
+<p><a href="/tl/adding-editing-geographic-boundaries/">Mga Heograpikal na Hati sa Mapa (Rehiyon, Lungsod, o Probinsya)</a></p>
 <ul>
-<li>Viewing Geographic Boundaries</li>
-<li>Adding Geographic Boundaries</li>
+<li>Tingnan Lahat ng mga Heograpikal na Hati</li>
+<li>Magdagdag ng mga Heograpikal na Hati</li>
 </ul>
-<p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/manage-database/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Manage Users</title>
+		<title>Pangasiwaan ang mga Gumagamit ng DRIVER</title>
 		<link>/tl/manage-users/</link>
 		<comments>/tl/manage-users/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 14:38:57 +0000</pubDate>
@@ -99,20 +104,19 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1096</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/manage-users/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p><a href="/tl/viewing-users/">Viewing Users</a></p>
+		<description><![CDATA[Siyasatin ang mga Gumagamit ng DRIVER Siyasatin ang mga Gumagamit ng DRIVER Siyasatin ang mga Gumagamit ng DRIVER Ayon sa &#8230; <a href="/tl/manage-users/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="/tl/viewing-users/">Siyasatin ang mga Gumagamit ng DRIVER</a></p>
 <ul>
-<li>Viewing All Users</li>
-<li>Viewing Users by Type</li>
-<li>Viewing Details of Individual Users</li>
+<li>Siyasatin ang mga Gumagamit ng DRIVER</li>
+<li>Siyasatin ang mga Gumagamit ng DRIVER Ayon sa Uri ng Access</li>
+<li>Siyasatin ang mga Indibidwal na Detalye ng mga Gumagamit ng DRIVER</li>
 </ul>
-<p><a href="/tl/modifying-user-accounts/">Modifying User Accounts</a></p>
+<p><a href="/tl/modifying-user-accounts/">Baguhin ang mga User Account</a></p>
 <ul>
-<li>Changing User&#8217;s E-mail, User Type/Role, or Username</li>
-<li>Deleting Users</li>
+<li>Baguhin ang E-mail, mga Karapatan, o Username ng mga Gumagamit ng DRIVER</li>
+<li>Bawiin ang Access</li>
 </ul>
-<p><a href="/tl/adding-new-users/">Adding Users</a></p>
+<p><a href="/tl/adding-new-users/">Magbigay ng Access</a></p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/manage-users/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -126,18 +130,17 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1090</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/blackspot-statistical-configuration/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>To access the black spot configuration, click the “System Settings” button at the top right of the Ashlar interface. Then set the severity threshold and click “Update”.</p>
+		<description><![CDATA[Para magamit ang black spot configuration, pindutin ang “System Settings” sa kanang itaas ng Ashlar interface. Pagkatapos ay i-set ang &#8230; <a href="/tl/blackspot-statistical-configuration/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Para magamit ang black spot configuration, pindutin ang “System Settings” sa kanang itaas ng Ashlar interface. Pagkatapos ay i-set ang severity threshold at pindutin ang “Update”.</p>
 <p><img class="aligncenter wp-image-1091 size-full" src="/wp-content/uploads/2017/10/System-Settings.png" alt="" width="571" height="140" srcset="/wp-content/uploads/2017/10/System-Settings.png 571w, /wp-content/uploads/2017/10/System-Settings-300x74.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></p>
-<p>The black spot configuration consists of inputting a threshold for the percentile of locations to display. The percentile is relative to all road segments, and is represented as a decimal between 0 and 1.</p>
-<p>Lower thresholds display more black spots; higher thresholds display only the most severe black spots. Updating the threshold does not have an immediate effect in DRIVER, but the update will be visible after the next scheduled run of the black spot calculation script.</p>
+<p>Gamit ang black spot configuration, maaaring i-set ang dami ng mapapabilang sa isang black spot ayon sa percentile mula 0 hanggang 1.</p>
+<p>Kapag mas mababa ang percentile, mas maraming black spots ang lalabas sa DRIVER. Kapag mas mataas, mas kaunting black spots. Ang ibig sabihin, mas malawak ang sakop na mga crash kapag mas mataas ang percentile. Kapag binago ang percentile, hindi kaagad ito makikita sa DRIVER. Makikita lamang ito sa susunod na run ng pag-compute ng black spots.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/blackspot-statistical-configuration/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Economic Loss &#038; Societal Harm</title>
+		<title>Danyos sa Ekonomiya at Lipunan</title>
 		<link>/tl/economic-loss-societal-harm/</link>
 		<comments>/tl/economic-loss-societal-harm/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 14:19:19 +0000</pubDate>
@@ -145,19 +148,17 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1086</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/economic-loss-societal-harm/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>The DRIVER website displays two widgets that calculate Economic Loss &amp; Societal Harm. These widgets&#8217; results also adjust according to what filters are set by the user.</p>
+		<description><![CDATA[May kapasidad ang DRIVER na i-compute ang mga Danyos sa Ekonomiya at Lipunan ng mga road crash. Kusa itong nagbabago &#8230; <a href="/tl/economic-loss-societal-harm/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>May kapasidad ang DRIVER na i-compute ang mga Danyos sa Ekonomiya at Lipunan ng mga road crash. Kusa itong nagbabago ayon sa gagamiting filter ng gumagamit ng DRIVER.</p>
 <p><img class="aligncenter wp-image-1087 size-full" src="/wp-content/uploads/2017/10/Cost-Aggregation-Settings.png" alt="" width="945" height="563" srcset="/wp-content/uploads/2017/10/Cost-Aggregation-Settings.png 945w, /wp-content/uploads/2017/10/Cost-Aggregation-Settings-300x179.png 300w, /wp-content/uploads/2017/10/Cost-Aggregation-Settings-768x458.png 768w" sizes="(max-width: 945px) 100vw, 945px" /><br />
-To set costs for economic loss and societal harm, expand the Incidents navigation tab and click on “Cost aggregation settings”.</p>
-<p>The interface provides formatting options for currency, the type of content, and field to associate with<br />
-costs. Only option-type fields are available for associating costs.</p>
+Para i-set ang danyos sa ekonomiya at lipunan, pindutin ang drop-down list ng Incidents Navigation Tab at pindutin ang “Cost aggregation settings”.</p>
+<p>Maaaring baguhin ang currency, ang ituturing na danyos, at ang uri ng datos.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/economic-loss-societal-harm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Adding &#038; Editing Geographic Boundaries</title>
+		<title>Baguhin ang mga Heograpikal na Hati</title>
 		<link>/tl/adding-editing-geographic-boundaries/</link>
 		<comments>/tl/adding-editing-geographic-boundaries/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 13:55:42 +0000</pubDate>
@@ -165,25 +166,24 @@ costs. Only option-type fields are available for associating costs.</p>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1080</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/adding-editing-geographic-boundaries/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>The DRIVER website allows users to view areas in its map with Geographic Boundaries, particularly according to Region, and City/Province.</p>
+		<description><![CDATA[May kakayahan ang DRIVER na ipakita sa mga User ang pagkakahati ng mapa ayon sa heograpiya tulad ng pagkakahati ayon &#8230; <a href="/tl/adding-editing-geographic-boundaries/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>May kakayahan ang DRIVER na ipakita sa mga User ang pagkakahati ng mapa ayon sa heograpiya tulad ng pagkakahati ayon sa rehiyon o sa lungsod at probinsya.</p>
 <p><img class="aligncenter wp-image-1081 size-full" src="/wp-content/uploads/2017/10/Cit.png" alt="" width="1365" height="590" srcset="/wp-content/uploads/2017/10/Cit.png 1365w, /wp-content/uploads/2017/10/Cit-300x130.png 300w, /wp-content/uploads/2017/10/Cit-768x332.png 768w, /wp-content/uploads/2017/10/Cit-1024x443.png 1024w" sizes="(max-width: 1365px) 100vw, 1365px" /> <img class="aligncenter wp-image-1082 size-full" src="/wp-content/uploads/2017/10/Region-Heo.png" alt="" width="1365" height="590" srcset="/wp-content/uploads/2017/10/Region-Heo.png 1365w, /wp-content/uploads/2017/10/Region-Heo-300x130.png 300w, /wp-content/uploads/2017/10/Region-Heo-768x332.png 768w, /wp-content/uploads/2017/10/Region-Heo-1024x443.png 1024w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p>Administrators may also add new Geographic Boundaries using the Ashlar Schema Editor.</p>
-<h3>Viewing Geographic Boundaries</h3>
-<p>To view the list of Geographic Boundaries available on the DRIVER website, click on the &#8220;View All Geographies&#8221; button found at the bottoom of the sidebar on the left.</p>
+<p>Maaari ring baguhin ng mga Administrator ng DRIVER ang mga hati gamit ang Ashlar Schema Editor.</p>
+<h3>Siyasatin ang mga Heograpikal na Hati</h3>
+<p>Upang makita ang listahan ng mga heograpikal na hati na ginagamit sa DRIVER, pindutin ang &#8220;View All Geographies&#8221; na makikita sa ibaba ng sidebar sa kaliwa.</p>
 <p><img class="aligncenter wp-image-1084 size-full" src="/wp-content/uploads/2017/10/View-ALl-Geo.png" alt="" width="198" height="159" /></p>
-<p><span style="color: inherit; font-size: 24px;">Adding Geographic Boundaries</span></p>
-<p>To add a new Geographic Boundary, click on the &#8220;Add New Geography&#8221; button found below the &#8220;View All Geographies&#8221; button on the sidebar.</p>
+<p><span style="color: inherit; font-size: 24px;">Baguhin ang mga Heograpikal na Hati</span></p>
+<p>Kung magdadagdag ng heograpikal na hati (tulad ng mapa ng mga distrito at barangay), pindutin ang &#8220;Add New Geography&#8221; na makikita sa ibaba ng &#8220;View All Geographies&#8221;.</p>
 <p><img class="aligncenter wp-image-1083 size-full" src="/wp-content/uploads/2017/10/Add-New-Geo.png" alt="" width="961" height="482" srcset="/wp-content/uploads/2017/10/Add-New-Geo.png 961w, /wp-content/uploads/2017/10/Add-New-Geo-300x150.png 300w, /wp-content/uploads/2017/10/Add-New-Geo-768x385.png 768w" sizes="(max-width: 961px) 100vw, 961px" /></p>
-<p>The administrator must add a Geography Label, upload a shapefile, and set a Geography Color (for instance, the red and green geography colors of the Region and City/Province boundaries, respectively).</p>
-<p>Upon upload, the admin user can select a display field for the new Geographic Boundary.</p>
+<p>Tungkulin ng Administrator na pangalanan ang idinagdag at mag-upload ng kaukulang shapefile. Kailangan din niyang i-set ang kulay nito (halimbawa, pula at berde para sa pagkakahati ayon sa rehiyon at sa lungsod o probinsya).</p>
+<p>Pagka-upload, makikita na ngayon ito sa DRIVER at magagamit na bilang filter.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/adding-editing-geographic-boundaries/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Related Content Types</title>
+		<title>Uri ng Related Content</title>
 		<link>/tl/related-content-types/</link>
 		<comments>/tl/related-content-types/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 12:46:06 +0000</pubDate>
@@ -191,33 +191,33 @@ costs. Only option-type fields are available for associating costs.</p>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1070</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/related-content-types/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>&#8220;Related Content&#8221; is the term used in the Ashlar Editor to refer to sub-categories within the Input Forms on the DRIVER website.</p>
-<p>Examples of Related Content are Vehicles, People, and Photos, which currently fall under the &#8220;Incident Input Form&#8221; of the Incidents Record Type.</p>
-<p>Admin users may view, edit, or add Related Content using the Ashlar Schema Editor.</p>
-<h3>Viewing Related Content Types</h3>
-<p>Related Content may be viewed by clicking on the &#8220;View Related Content&#8221; link on the sidebar on the left side of the screen. Clicking on this will lead the admin user to a list of all Related Content available for the selected Record Type (in this case, the Record Type is &#8220;Incidents&#8221;, and the Related Contents falling under it are &#8220;Vehicles&#8221;, People&#8221;, and &#8220;Photos&#8221;.</p>
+		<description><![CDATA[Sa Ashlar Editor, &#8220;Related Content&#8221; ang tawag sa mga kategoryang makikita sa Input forms sa DRIVER. Ang mga halimbawa ng &#8230; <a href="/tl/related-content-types/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Sa Ashlar Editor, &#8220;Related Content&#8221; ang tawag sa mga kategoryang makikita sa Input forms sa DRIVER.</p>
+<p>Ang mga halimbawa ng Related Content ay &#8220;Vehicles, People, at Photos.&#8221; Sa loob ng bawat Related Content ay mga fields at datos na kailangang kolektahin at kalaunan ay gagamitin upang masagot ang &#8220;Incident Input Form.&#8221; Ang &#8220;Incident Input Form&#8221; ay ang ulat na ginagamit sa mga insidente o &#8220;Incidents.&#8221;</p>
+<p>Mababago ng mga Admin ang Related Content gamit ang Ashlar Schema Editor.</p>
+<h3>Siyasatin ang mga Uri ng Related Content</h3>
+<p>Makikita ang mga uri ng Related Content sa pamamagitan ng pagpindot sa &#8220;View Related Content&#8221; sa sidebar sa kaliwang bahagi ng screen. Pagkapindot, makikita ng Admin User ang listahan ng lahat ng Related Content na kabilang sa uri ng Record na iyon (sa halimbawang ito, makikita ang lahat ng Related Content na kabilang sa &#8220;Incidents.&#8221; Ito ay ang &#8220;Vehicles,&#8221; &#8220;People,&#8221; at &#8220;Photos&#8221;).</p>
 <p><img class="aligncenter wp-image-1072 size-full" src="/wp-content/uploads/2017/10/Related-Content_Incidents.png" alt="" width="946" height="321" srcset="/wp-content/uploads/2017/10/Related-Content_Incidents.png 946w, /wp-content/uploads/2017/10/Related-Content_Incidents-300x102.png 300w, /wp-content/uploads/2017/10/Related-Content_Incidents-768x261.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></p>
-<h3>Editing Related Content</h3>
-<p>Clicking on the &#8220;Edit&#8221; button on the right side of each Related Content Entry will let admin users edit its details, which will reflect on the DRIVER website as additional fields/categories for Analyst users to fill up.</p>
+<h3>Baguhin ang Related Content</h3>
+<p>Maaaring baguhin ang Related Content sa pamamagitan ng pagpindot ng &#8220;Edit&#8221; na matatagpuan sa kanang bahagi ng bawat Related Content. Ang pagbabagong maaaring gawin sa bawat Related Content ay ang pagdaragdag ng mga input fields at kategory na gagamitin sa pagkumpleto ng Incident Report Form at kakailanganin sa pangongolekta ng datos. Makikita ang mga ginawang pagbabago sa DRIVER website at ito ngayon ay maaari nang magamit ng mga Analyst.</p>
 <p><img class="alignnone wp-image-1073 size-full" src="/wp-content/uploads/2017/10/Photo_RElated_Content.png" alt="" width="913" height="552" srcset="/wp-content/uploads/2017/10/Photo_RElated_Content.png 913w, /wp-content/uploads/2017/10/Photo_RElated_Content-300x181.png 300w, /wp-content/uploads/2017/10/Photo_RElated_Content-768x464.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></p>
-<p>From here, admin users may choose what type of field or content they would like to reflect on the selected Record Type DRIVER website. They may also edit the elements of the Related Content Types above. For instance, if the admin user wants to add a text field as a Related Content Type, they may do so on this page by choosing from the dropdown pictured below:</p>
+<p>Sa pagdaragdag ng mga kategorya at fields, makakapili ang Admin User ng uri ng field na gusto nilang makita sa DRIVER. Halimbawa, kung gusto ng mga Admin User na magkaroon ng field na listahan, piliin ang &#8220;Select List.&#8221; Kapag ang nais ay malayang pagsagot ng field (sa paraang patalata o pangungusap), piliin ang &#8220;Text Field.&#8221; Makikita ang halimbawa sa larawan sa ibaba:</p>
 <p><img class="aligncenter wp-image-1074 size-full" src="/wp-content/uploads/2017/10/Related-Content_Text-FIeld.png" alt="" width="871" height="442" srcset="/wp-content/uploads/2017/10/Related-Content_Text-FIeld.png 871w, /wp-content/uploads/2017/10/Related-Content_Text-FIeld-300x152.png 300w, /wp-content/uploads/2017/10/Related-Content_Text-FIeld-768x390.png 768w" sizes="(max-width: 871px) 100vw, 871px" /></p>
-<h3>Adding Related Content</h3>
-<p>Admin users may add Related Content by clicking the &#8220;Add Related Content&#8221; link on the left sidebar of the Ashlar Editor, or by clicking on the &#8220;Add New Content&#8221; button on the top right corner of the Related Content&#8217;s page.</p>
-<p>From here, users may add in the singular and plural forms of their chosen record type label. For instance, if the user wishes to name the new record type &#8220;Incidents&#8221;, they must set &#8220;Incident&#8221; as the singular label of the record type, and &#8220;Incidents&#8221; as the plural label. These labels will adjust accordingly on the DRIVER website, depending on whether a DRIVER user adds one or multiple entries.</p>
+<h3>Pagdagdag ng Related Content</h3>
+<p>Maaaring magdagdag ng Related Content ang mga Admin user sa pamamagitan ng pagpindot ng &#8220;Add Related Content&#8221; na matatagpuan sa sidebar sa kaliwa ng Ashlar Editor. Maaari ring pindutin ang &#8220;Add New Content&#8221; button sa kanang itaas ng page para sa Related Content.</p>
+<p>Maaaring idagdag ang pang-isahan o pang-maramihang anyo ng record. Kunwari, kung gustong magdagdag ng bagong uri ng record na &#8220;Incident,&#8221; ito ang ilalagay sa &#8220;Single Title,&#8221; samantalang &#8220;Incidents&#8221; naman sa &#8220;Plural Title.&#8221; Mag-aadjust ang mga ito ayon sa pagkakagamit sa DRIVER: kung isa o marami ang magiging record.</p>
 <p><img class="aligncenter wp-image-1075 size-full" src="/wp-content/uploads/2017/10/Add-RElated-Content.png" alt="" width="927" height="423" srcset="/wp-content/uploads/2017/10/Add-RElated-Content.png 927w, /wp-content/uploads/2017/10/Add-RElated-Content-300x137.png 300w, /wp-content/uploads/2017/10/Add-RElated-Content-768x350.png 768w" sizes="(max-width: 927px) 100vw, 927px" /></p>
-<h3>Adding Multiple Entries in a Single Related Content Type</h3>
-<p>Clicking on the &#8220;Allow Multiple?&#8221; checkbox at the bottom left side of the page will allow DRIVER Analyst users to add more than one entry within a Related Content Type. For example, if the admin wants the Analyst user to add more than one Vehicle in the Incident Input Form, then the &#8220;Allow Multiple?&#8221; checkbox must be ticked.</p>
-<h3>Deleting Related Content</h3>
-<p><img class="aligncenter wp-image-1078 size-full" src="/wp-content/uploads/2017/10/Trash-Inciden.png" alt="" width="935" height="140" srcset="/wp-content/uploads/2017/10/Trash-Inciden.png 935w, /wp-content/uploads/2017/10/Trash-Inciden-300x45.png 300w, /wp-content/uploads/2017/10/Trash-Inciden-768x115.png 768w" sizes="(max-width: 935px) 100vw, 935px" />To delete Related Content, simply click on the &#8220;Trash&#8221; button located on the rightmost side of each Related Content entry.</p>
+<h3>Maraming Record sa isang Related Content</h3>
+<p>&nbsp;</p>
+<p>Kapag minarkahan ang &#8220;Allow Multiple?&#8221; sa kaliwang ibabang bahagi ng page, mapapahintulutan ang Analyst na makapagdagdag ng maraming record sa isang Related Content. Halimbawa, kung gusto ng Admin na makapagrecord ang Analyst ng maraming &#8220;Vehicle,&#8221; kailangang markahan ng Admin ang &#8220;Allow Multiple?&#8221;</p>
+<h3>Pagtanggal ng Related Content</h3>
+<p><img class="aligncenter wp-image-1078 size-full" src="/wp-content/uploads/2017/10/Trash-Inciden.png" alt="" width="935" height="140" srcset="/wp-content/uploads/2017/10/Trash-Inciden.png 935w, /wp-content/uploads/2017/10/Trash-Inciden-300x45.png 300w, /wp-content/uploads/2017/10/Trash-Inciden-768x115.png 768w" sizes="(max-width: 935px) 100vw, 935px" />Para matanggal ang isang Related Content kailangan lamang pindutin ang &#8220;Trash&#8221; sa kanang bahagi ng screen.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/related-content-types/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Record Types</title>
+		<title>Mga Uri ng Record</title>
 		<link>/tl/record-types/</link>
 		<comments>/tl/record-types/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 12:43:55 +0000</pubDate>
@@ -225,26 +225,25 @@ costs. Only option-type fields are available for associating costs.</p>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1065</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/record-types/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>Record Types on the DRIVER website may be added via the Ashlar Schema Editor. As of the moment, there are two Record Types on the DRIVER website: Incidents and Interventions.</p>
+		<description><![CDATA[Maaaring magdagdag ng uri ng record sa DRIVER gamit ang Ashlar Schema Editor. Sa ngayon, mayroong dalawang uri ng record &#8230; <a href="/tl/record-types/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Maaaring magdagdag ng uri ng record sa DRIVER gamit ang Ashlar Schema Editor. Sa ngayon, mayroong dalawang uri ng record na makikita sa DRIVER:  Incidents (o mga insidente) at Interventions (o mga interbensyon).</p>
 <h3><img class="wp-image-1066 size-full aligncenter" src="/wp-content/uploads/2017/10/Record-Types.png" alt="" width="199" height="425" srcset="/wp-content/uploads/2017/10/Record-Types.png 199w, /wp-content/uploads/2017/10/Record-Types-140x300.png 140w" sizes="(max-width: 199px) 100vw, 199px" /><br />
-View All Record Types</h3>
-<p>These two Record Types (and succeeding record types) may be viewed in the Ashlar Editor on the sidebar seen on the left. Clicking on the &#8220;View all record types&#8221; button takes the user to the available record types, where they can add, edit, or delete details of their selected Record Type.</p>
+Siyasatin ang mga Uri ng Record</h3>
+<p>Makikita ang dalawang uri ng record na ito (at ang madadagdag pa kalaunan) sa sidebar sa kaliwa ng Ashlar Editor. Upang mabago, makapagdagdag, at makapagtanggal ng uri ng record, kailangan lamang pindutin muna ang &#8220;View all record types.&#8221;</p>
 <p><img class="alignnone wp-image-1068 size-full" src="/wp-content/uploads/2017/10/All-Record-Types.png" alt="" width="920" height="193" srcset="/wp-content/uploads/2017/10/All-Record-Types.png 920w, /wp-content/uploads/2017/10/All-Record-Types-300x63.png 300w, /wp-content/uploads/2017/10/All-Record-Types-768x161.png 768w" sizes="(max-width: 920px) 100vw, 920px" /></p>
-<p>Clicking on the &#8220;Preview&#8221; button on the far right of the Record Type will take the user to a preview of the Record Type&#8217;s Input Form on the DRIVER website. In the preview, users may click the &#8220;Expand&#8221; button to view more details of the Record Type&#8217;s input form.</p>
-<h3>Editing Record Types</h3>
-<p>Clicking on the &#8220;Edit&#8221; button on the right side of each Record Type entry will let admin users edit its details, which will reflect on the DRIVER website.</p>
+<p>Makikita ang Input Form ng napiling record type kapag pinindot ang &#8220;Preview&#8221; sa kanang bahagi ng screen. Kung nais tingnan ang ilan pang detalye tungkol sa Input Form ng uri ng record, pindutin lamang ang &#8220;Expand&#8221; pagkatapos mapindot ang &#8220;Preview.&#8221;</p>
+<h3>Pag-edit sa mga Uri ng Record</h3>
+<p>Pindutin ang &#8220;Edit&#8221; sa kanang bahagi ng uri ng record upang mabago ang mga detalye ng piniling uri ng record.</p>
 <p><img class="aligncenter wp-image-1102 size-full" src="/wp-content/uploads/2017/10/Edit-Record-Type.png" alt="" width="946" height="381" srcset="/wp-content/uploads/2017/10/Edit-Record-Type.png 946w, /wp-content/uploads/2017/10/Edit-Record-Type-300x121.png 300w, /wp-content/uploads/2017/10/Edit-Record-Type-768x309.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></p>
-<h3>Deleting Record Types</h3>
-<p>To delete Record Types, simply click on the &#8220;Trash&#8221; button located on the rightmost side of each Record Type entry.</p>
+<h3>Pagtanggal ng mga Uri ng Record</h3>
+<p>Pindutin lamang ang &#8220;Trash&#8221; sa kanang bahagi ng uri ng napiling record para matanggal ito.</p>
 <p><img class="aligncenter wp-image-1103 size-full" src="/wp-content/uploads/2017/10/Incident-trash.png" alt="" width="886" height="63" srcset="/wp-content/uploads/2017/10/Incident-trash.png 886w, /wp-content/uploads/2017/10/Incident-trash-300x21.png 300w, /wp-content/uploads/2017/10/Incident-trash-768x55.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/record-types/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Adding New Users</title>
+		<title>Pagdagdag ng mga Bagong User</title>
 		<link>/tl/adding-new-users/</link>
 		<comments>/tl/adding-new-users/#respond</comments>
 		<pubDate>Fri, 06 Oct 2017 12:11:44 +0000</pubDate>
@@ -252,13 +251,12 @@ View All Record Types</h3>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=1062</guid>
-		<description><![CDATA[Sorry, this entry is only available in English. For the sake of viewer convenience, the content is shown below in &#8230; <a href="/tl/adding-new-users/">Read more &#8594;</a>]]></description>
-				<content:encoded><![CDATA[<p class="qtranxs-available-languages-message qtranxs-available-languages-message-tl">Sorry, this entry is only available in <a href="/tl/feed/" class="qtranxs-available-language-link qtranxs-available-language-link-en" title="English">English</a>. For the sake of viewer convenience, the content is shown below in the alternative language. You may click the link to switch the active language.</p>
-<p>To add new users, simply click on the &#8220;Add New User&#8221; button under the User Management page, which you can access by clicking &#8220;Manage Users&#8221; on the top right corner of the Ashlar Editor.</p>
-<p>Upon clicking the &#8220;Add New User&#8221; button, the Ashlar Editor will redirect you to a new page labelled &#8220;Create User Account&#8221;.</p>
+		<description><![CDATA[Upang makapagdagdag ng mga bagong User, pindutin ang &#8220;Add New User&#8221; sa ibaba ng User Management page na mabubuksan kapag &#8230; <a href="/tl/adding-new-users/">Read more &#8594;</a>]]></description>
+				<content:encoded><![CDATA[<p>Upang makapagdagdag ng mga bagong User, pindutin ang &#8220;Add New User&#8221; sa ibaba ng User Management page na mabubuksan kapag pinindot ang &#8220;Manage Users&#8221; sa kanang itaas ng Ashlar Editor.</p>
+<p>Kapag pinindot na ang &#8220;Add New User&#8221;, mapupunta ang Ashlar Editor sa page na pinamagatang &#8220;Create User Account&#8221;.</p>
 <p><img class="alignnone wp-image-1063 size-full" src="/wp-content/uploads/2017/10/Create-User-Account.png" alt="" width="912" height="353" srcset="/wp-content/uploads/2017/10/Create-User-Account.png 912w, /wp-content/uploads/2017/10/Create-User-Account-300x116.png 300w, /wp-content/uploads/2017/10/Create-User-Account-768x297.png 768w" sizes="(max-width: 912px) 100vw, 912px" /></p>
-<p>From here, you may create a user by filling the necessary details shown, as well as provide the user with a password.</p>
-<p>Click on the &#8220;CreateUser&#8221; button below to create the user account.</p>
+<p>Mula rito, maaari nang makapagdagdag ng User sa pamamagitan ng pagkumpleto sa mga detalyeng hinihingi.</p>
+<p>Pindutin ang &#8220;Create User&#8221; para malikha ang bagong User.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/tl/adding-new-users/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
